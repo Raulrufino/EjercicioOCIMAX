@@ -1,5 +1,5 @@
 /**
- * Ejercicio entrada al cine OCIMAX  ECHO CON SWICH
+ * Ejercicio entrada al cine OCIMAX  ECHO CON CONDICIONAL MULTIPLE
  */
 let autorizacion = prompt('Ocimax no permite la entrada a personas que no esten vacunadas ¿Está usted vacunado?')
 

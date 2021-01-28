@@ -1,0 +1,1 @@
+Hola toni, cuando pongo en el terminal git.init me dice que "git existente reinicializado" pero no me sale git init como a ti en el terminal, ¿sera por el mac?? jeje
